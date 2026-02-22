@@ -1,2 +1,2 @@
 # Churn-Modelling-with-Decision-Tree-ML
-ML Practice
+Machine Learning Practice
